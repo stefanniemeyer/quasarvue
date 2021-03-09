@@ -1,4 +1,4 @@
-# PhotoApp (code)
+# Quasar App (code)
 
 A Quasar Framework app
 
