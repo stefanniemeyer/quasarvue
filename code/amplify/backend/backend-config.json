@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "kursprojekt39bf4069": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
